@@ -2,5 +2,7 @@
     "cSpell.words": [
         "aula",
         "Curso"
-    ]
+    ],
+    "audioCues.lineHasWarning": "off",
+    "editor.wordWrap": "on"
 }
